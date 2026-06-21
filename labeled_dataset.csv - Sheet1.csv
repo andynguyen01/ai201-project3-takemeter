@@ -1,0 +1,343 @@
+text,label,notes
+[F1] Lewis Hamilton is now the only remaining driver to have completed every Grand Prix lap this season,Analysis,Review manually; heuristic defaulted to Analysis.
+[Autosport] Max and Lewis were asked if they had any advice for Kimi tomorrow,Analysis,Review manually; heuristic defaulted to Analysis.
+"Lewis Hamilton wins the 2026 Barcelona Grand Prix, his first victory for Ferrari!",Reaction,"Primarily emotional response, humor, or personal feeling."
+"Oscar wrote “sprayed by the GOAT” in his ‘racing firsts’ scrapbook page, reference to his first win and Lewis spraying him on the podium",Analysis,Review manually; heuristic defaulted to Analysis.
+Kim Kardashian taking the towel meant for Kimi Antonelli after the race in Monaco and wiping her head with it,Analysis,Review manually; heuristic defaulted to Analysis.
+"TIL Lando Norris customised his RFM karting suits to use Valentino Rossi-style fluoro yellow, which RFM adopted as their team colours not long after. This would ultimately influence the fluoro yellow seen on Piastri’s helmet today.",Analysis,Review manually; heuristic defaulted to Analysis.
+Max congratulating Lewis on the win,Analysis,Review manually; heuristic defaulted to Analysis.
+[Red Bull Racing] Reunited on the podium,Analysis,Review manually; heuristic defaulted to Analysis.
+McLaren have come a long way. This is them in 2018 dropping one of their cars before the tyres were put on...,Analysis,Review manually; heuristic defaulted to Analysis.
+"[autosport]Ferrari is currently waiting for official approval from the FIA before introducing its upgraded F1 engine, provisionally as early as the Austrian Grand Prix!",Analysis,"Contains explanation, evidence, or technical reasoning."
+[autosport] How Lewis Hamilton stacks up against Ferrari for race wins since his F1 debut in 2007,Analysis,Review manually; heuristic defaulted to Analysis.
+"Nico Rosberg called out jacques for his comments on Lewis Hamilton: ""He was speaking to you also in that piece there. He said he hates when ex-drivers criticise him who've not had his success. He was thinking about you 100%.""",Reaction,"Primarily emotional response, humor, or personal feeling."
+Kimi Antonelli wins the 2026 Canadian Grand Prix,Analysis,Review manually; heuristic defaulted to Analysis.
+"I hope that the FIA don't turn this into a potential clusterfuck. Imagine if the FIA delay this out because of the Red Bull challenge, and then Ferrari (and other manufacturers like Audi) who had development updates prepped are left in limbo.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"Of course they will, they make a controversial decision and then they decide to reverse it because a team pressurises them and then when other teams tell them they have to stick by their original assessment that everyone agreed to, they suddenly decide that the discussion is over.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"Ferrari is currently waiting for official approval from the FIA before introducing its upgraded F1 engine, provisionally as early as the Austrian Grand Prix Combined with a new Shell fuel, developed specifically for the new engine configuration, the increase in power is expected to help reduce the horsepower deficit.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"For all the prestige they have, Ferrari need to match the politicking and lobbying of Mercedes if they want to win, this happened a few weeks back with Merc getting to install an upgrade that the FIA said was illegal when Ferrari had it, only for the FIA to change their mind once Mercedes brought it and gained an advantage that would have been Ferrari’s otherwise.",Analysis,"Contains explanation, evidence, or technical reasoning."
+Championship back on if that's the case,Hot Take,Prediction or strong opinion with limited evidence.
+"How does ADUO work with the PU allocations? Can you only add the upgrades to unused elements?
+
+What I'm thinking is, for those getting ADUO upgrades, will they ultimately have to take a penalty to use upgraded elements for the rest of the season, or end up having to use a mix of old spec and new spec?",Analysis,"Contains explanation, evidence, or technical reasoning."
+"Can you only add the upgrades to unused elements?
+
+A lot of the PU is sealed, and any changes to sealed bits of the PU can only be made to new components. Regulated in Appendix C5, 3.10 b:
+
+Any permitted modifications concerning parts that are inside the sealed perimeter (i.e. parts described as “INC” in the “Sealed Perimeter” column of Appendix C4) can only be applied to new Power Unit elements.
+
+Parts that are not sealed seem to mostly be sensors and electrical components; it's listed in detail in Appendix C4. This restriction applies to all upgrades (ADUO as well as reliability), and it means any upgrade will likely have to be introduced through a new component; sealed parts of old components in the pool cannot be upgraded.
+
+Furthermore, any new PU component introduced during a competition must always be of the newest specification, and whenever a new specification is introduced for the first time on any car, all teams supplied by the manufacturer are entitled to priority access to at least 1 PU of that newest specification for the Friday of that competition.",Analysis,"Contains explanation, evidence, or technical reasoning."
+Villeneuve made a dig at Rosberg earlier on. He said something about drivers will hype up the people they race with so they can claim they beat the best. Referring to Rosberg's praise for Hamilton since the 2016 win. Thing is Nico is fully justified to praise Lewis and you could see Nico registered the comment partially being about him.,Analysis,Review manually; heuristic defaulted to Analysis.
+"t's a Motorsport trait - drivers and riders almost always carry a massive ego, which is what propels them to take ungodly amounts of risk just to prove they're better than the rest. The whole system (the podium, the pictures...) is then built to feed that ego.",Analysis,Review manually; heuristic defaulted to Analysis.
+"He said something about drivers will hype up the people they race with so they can claim they beat the best.
+
+That might maybe (big maybe even) have some teeth if you kinda squint at the person saying it, but when you're talking about a 7x WDC, it just makes you look silly JV.
+
+Like you need to hype up a 7x WDC, the trophies speak for themselves.",Analysis,Review manually; heuristic defaulted to Analysis.
+"Nico has always came across as really nice to be honest.
+
+He had a rivalry with Lewis but there is genuine affection there, after all they did grow up together and I think he’s happy to see Lewis’ success, I don’t think Lewis has any bad feelings towards Nico.
+
+F1 is a competition and all the drivers are rivals of each other, that doesn’t mean they personally dislike each other.",Hot Take,Prediction or strong opinion with limited evidence.
+"I got to meet and take photos with Nico years ago, back when he and Lewis were with Mercedes. He was so patient and kind, even when he didn't need to wait or talk to us (and many of the drivers there understandably did not stop because they were busy). I remember he even asked to put his arm around me out of respect when we posed for the picture. It was such a positive, human interaction.
+
+Also met Lewis at a later event and he was also nice, and took the time for conversation.
+
+May be anecdotal evidence, but I do think you're right that Nico comes across as nice(r) than one might expect someone with his level of fame and wealth to be.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"Italy is a country that even if they get to adore Lewis, even if Lewis gets Ferrari to dominate, they would adore him in a racist way while being “not on purpose and without malice”
+
+Like “Il ragazzino nero diventa rosso per la sua grande vittoria” (“The black guy becomes red for his great victory”), this is a headline I wouldn’t have to check twice if reading it in Italian lol",Reaction,"Primarily emotional response, humor, or personal feeling."
+"If Hamilton was a team, he'd rank 6th all time in wins (behind Ferrari, Mclaren, Mercedes, Red Bull and Williams) and 5th in constructors titles (behind Ferrari, Mclaren, Williams, Mercedes).",Analysis,Review manually; heuristic defaulted to Analysis.
+"What about lifetime Ferrari wins vs Lewis ?
+
+Ferrari shoots themselves in the foot so often, I can't believe even their lifetime wins total is more than Lewis.
+
+EDIT: Quick search produced this:
+
+Lewis Hamilton 387 starts, with 106 wins for a 27.39% winning percentage,
+
+Scuderia Ferrari 1,129 starts, with 249 wins for a 22.05% winning percentage.
+
+That's pretty bad considering more than half of Ferrari's wins came before 2000. If you compare same time period, Lewis has won at almost double the rate of the entire Ferrari team.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"Ah yes, the guy on the right accelerates, the guy on the left brakes, and the guy in the middle steers. Perfect symbiosis!",Reaction,"Primarily emotional response, humor, or personal feeling."
+"Meh, I don't need a neck. Give me another lap",Analysis,Review manually; heuristic defaulted to Analysis.
+For a moment i thought it was a formula car with 2 seats or 3 seats. Leclerc drove one in past years,Analysis,Review manually; heuristic defaulted to Analysis.
+"It's actually a good reminder that for 90% of the people working in F1 it's just an office job or a manufacturing job where the end result is building an F1 car.
+
+It's only really the 10% who travel and attend races who have a meaningfully different experience, and even they spend more time in an office than they do at the track.",Analysis,Review manually; heuristic defaulted to Analysis.
+For the mechanics and race engineers in the pit lane they probably do feel directly a part of a sports team compared to the hundreds or thousands back at home base,Analysis,"Contains explanation, evidence, or technical reasoning."
+"Cousin is a lead mechanic on a MotoGP team and he's said this, though even he admits that there's a lot of ""hurry up and wait"" involved.",Analysis,Review manually; heuristic defaulted to Analysis.
+"As a machinist, I have at times wondered how cool it would be to be a part of the F1 world and making the parts that go on these cars. Then I recall all the times in the past that I've got to machine parts for things that most people would find really interesting. That whole ""Oh wow! THAT'S what we're making?"" cool factor last about 30 minutes. After that, it's just another day of making chips and cursing when you miss that +/- .0003"" tolerance on a dimension by .0001"".",Reaction,"Primarily emotional response, humor, or personal feeling."
+"It depends. A lot of the time, the parts can still be used for training. Other times, you have to redo them because a new update comes out right after you are done, or because they find something that is slightly different.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"Do you have to redo a lot of parts ? 
+
+If you miss a tolerance for what ever reason, do you just chuck it and start again",Analysis,"Contains explanation, evidence, or technical reasoning."
+"This is exactly the same for any professional sports team. They have their own facilities, marketing and other teams that are office only really.",Analysis,Review manually; heuristic defaulted to Analysis.
+"Both are result-driven, the process is irrelevant 😉
+
+Seriously though. I didn't expect to see anything remotely confidential. Resting areas like cafeteria etc. would've been nice.
+
+Two years ago we had an inquiry from Sauber, but didn't get the order (material analysis for those who care). Me and another colleague were already scheming how we could convince them that we definitely need to come to their factory to present the results.",Analysis,Review manually; heuristic defaulted to Analysis.
+"When we made Ferrari's F2009 press-launch website ages ago, the whole team dedicated to the project had to move to Maranello for 3 days for security reasons (we were based in Milan). I'd love to say we saw some cool shit in there, but in reality they kept us in a crappy container for 8 hours each day with no phones and with limited internet access. We didn't even see a single Ferrari, just the one hanged on the wall at the entrance. All the rest was just pictures (before the press reveal, so there was that)",Analysis,"Contains explanation, evidence, or technical reasoning."
+"What's rest? - an F1 engineer, probably",Analysis,"Contains explanation, evidence, or technical reasoning."
+"It is German though...
+
+""Sleep ist most optimal for produzing superior work output. I have allocated a 15 minute schlafenbreak throughout ze day. """,Analysis,Review manually; heuristic defaulted to Analysis.
+"One of my friends worked as an engineer for an F1 team for a year while we were on our co-op terms. She would tell me about it. It’s not for me. The work life balance is quite poor. She will probably go back after she graduates.
+
+I want to work at Oreca. I love endurance. The Oreca 07 is such a fantastic car. And I think their work life balance is significantly better.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"I would presume that his posts' primary intent is to boost his career, I would not take them as an honest overview of what that job actually looks like. I would look elsewhere to get career advice.",Analysis,Review manually; heuristic defaulted to Analysis.
+"It’s so fascinating to see that you guys … uhm, commute, clock in, work at a desk, have lunch and then some meetings. 
+
+It’s such a different world to mine.",Analysis,Review manually; heuristic defaulted to Analysis.
+I dropped my Redbull water bottle earlier today. It is now shaped unlike any other Redbull water bottle in the world. I tell people it's custom now.,Analysis,Review manually; heuristic defaulted to Analysis.
+"I dunno, my demanding job and long days means I arrive when it’s dark, leave when it’s dark, eat lunch at my desk in any 15min window I get between 12-3pm.
+
+I definitely don’t have time (or the facilities) to play sport or exercise at lunch.
+
+The Lego and drink bottle? Shit, my industry has been constantly evolving for 10 years, so you’re lucky to just have a job.",Analysis,Review manually; heuristic defaulted to Analysis.
+But do you have 3 hour long lunch break where you can actually do sports outside??,Analysis,Review manually; heuristic defaulted to Analysis.
+"Cycles to work, has a labelled water bottle, does some PE and has a playground outside.
+
+Are we absolutely certain he's not in school?",Analysis,Review manually; heuristic defaulted to Analysis.
+"I was about to give you shit for this but then I finished scrolling through and yeah, dude says exactly 0 interesting things about his job. I was more interested in his commute, looked lovely.",Reaction,"Primarily emotional response, humor, or personal feeling."
+"One of my favorite clips is one where Verstappen is getting to the track on Friday or something, and a camera catches him, and he goes: Look 7 time world champion, 2 (Might've been 3) time world champion, first ones in!
+
+Cause Lewis was walking in at the same time to the paddock.
+
+I think 21 really was so intense its taken years to get to a normal spot but I feel like after one or both retire, they might be even more friendly, tho hang out in diff circles.",Hot Take,Prediction or strong opinion with limited evidence.
+I love it when Lewis and Max are friendly towards eachother. They got a common sense of humour at times.,Reaction,"Primarily emotional response, humor, or personal feeling."
+Arguably the best drivers among each of their generations. I feel like both Ham and Ver see their younger versions in Kimi.,Analysis,Review manually; heuristic defaulted to Analysis.
+"Max and Lewis together like this is really entertaining. The double thumbs up and now this, I hope we get more.",Analysis,Review manually; heuristic defaulted to Analysis.
+"hey're both firmly in the ""nothing left to prove, here because I love racing"" camp that multi-WDCs get to inhabit.
+
+I'm sure if a title fight happened again between them, it would look a whole lot like 2021, but past that, they're just two dudes who love racing and are long since over the bullshit parts of F1.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"I never thought Max and Lewis would both be in the wholesome trio of F1, but here we are and I’m here for it.",Hot Take,Prediction or strong opinion with limited evidence.
+"I think Max is gonna force kimi to make a decision, wall, crash or back out, and Lewis is gonna scootch through behind max - Max p1, lewis p2, Kimi p3 - The old goats showing the young buck what's up.",Hot Take,Prediction or strong opinion with limited evidence.
+Cadillac have been far more reliable than expected early on,Analysis,Review manually; heuristic defaulted to Analysis.
+"And definitely unexpected, considering the Cadillac disassembles itself throughout the race.",Analysis,Review manually; heuristic defaulted to Analysis.
+"how is Bottas's mechanical issues ""him not being able to stay alive""?",Analysis,Review manually; heuristic defaulted to Analysis.
+Dunno how much of that is Checo and how much is Cadillac only being able to make 1.5 cars this year instead of 2.,Analysis,Review manually; heuristic defaulted to Analysis.
+do you want to him to pull the car like a horse cart when it refuses to work,Analysis,Review manually; heuristic defaulted to Analysis.
+Guys can we stop posting this? You guys might jinx it and he dnf's next race,Analysis,Review manually; heuristic defaulted to Analysis.
+Somebody know how this compares to other seasons? As in how many drivers comoeted all laps?,Analysis,"Contains explanation, evidence, or technical reasoning."
+"It’s rare for a driver to complete all laps in a season. I remember when Oscar did it in 2024.
+
+Only a handful of drivers have done a full season. I have no idea about mid season stats tho. ",Analysis,Review manually; heuristic defaulted to Analysis.
+"Lewis 2019
+
+Max 2023
+
+Oscar 2024
+
+I know there's four but somehow I can't remember if it was seb or Michael or maybe even someone else altogether",Analysis,Review manually; heuristic defaulted to Analysis.
+"""Zak and Andrea are a great duo. They complement each other quite well. They seem to have a great culture within the team as well.""",Analysis,Review manually; heuristic defaulted to Analysis.
+"""Say what you want to say about Zak Brown, i don't like him either but he did bring McLaren back to the top.""",Analysis,Review manually; heuristic defaulted to Analysis.
+"""I don't love him but I don't have a reason to not like him.""",Analysis,"Contains explanation, evidence, or technical reasoning."
+"""His support of Trump is good enough of a reason for me.""",Analysis,"Contains explanation, evidence, or technical reasoning."
+"""McLaren would've died without him, plain and simple.""",Analysis,Review manually; heuristic defaulted to Analysis.
+"""Car performance, sponsorships, and team personnel are back to the top. Operationally though they are still a midfield team.""",Analysis,"Contains explanation, evidence, or technical reasoning."
+"""Never understood the Zak hate anyway.""",Hot Take,Prediction or strong opinion with limited evidence.
+"""Lando and Oscar are not friends per se but they both still look like they work together very well.""",Analysis,Review manually; heuristic defaulted to Analysis.
+"""There are some people who just give that vibe. Zak can make McLaren 10 time consecutive WCC and I'll still not like him.""",Analysis,Review manually; heuristic defaulted to Analysis.
+"""Hamilton is the most overrated driver in Formula 1 history.""",Hot Take,Prediction or strong opinion with limited evidence.
+"""McLaren last year was the top team still thinking it was in the midfield and had the dumbest strategies.""",Analysis,Review manually; heuristic defaulted to Analysis.
+"""RB's dominance in strategy, race day operations, and pits during the Horner era is insane.""",Analysis,"Contains explanation, evidence, or technical reasoning."
+"""That car looked shockingly bad, period.""",Analysis,Review manually; heuristic defaulted to Analysis.
+"""Is it a hot take to say that this McLaren livery was gorgeous?""",Hot Take,Prediction or strong opinion with limited evidence.
+"""Ferrari was challenging Mercedes for a title that year and failed. McLaren has since won two constructors' championships while Ferrari won none.""",Analysis,Review manually; heuristic defaulted to Analysis.
+"""F1 is more enjoyable when they're fighting for podiums/wins.""",Analysis,Review manually; heuristic defaulted to Analysis.
+"""Back to back world constructors championships, breaking a run of 14 consecutive championships won by either Red Bull or Mercedes. Plus the only non Red Bull or Merc WDC in 15 years. We have come VERY far.""",Analysis,Review manually; heuristic defaulted to Analysis.
+"RB's dominance in strategy, race day operations, and pits during the Horner era is insane. Not only do their main drivers reap those benefits, they go into races fully confident that their team will support them as #1 driver, AND make the right calls. Not having to second guess your team at all allows you to focus all your efforts on driving and substantially minimizes the onset of mental funks that other drivers are repeatedly dealing with directly related to management and strategy, eg. George this year, both Lando and Oscar at times last year, Ham last year, Leclerc in F1.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"Valid, however, that’s really the only main criticism you can put against them during a monumental rise to the top.",Analysis,Review manually; heuristic defaulted to Analysis.
+"
+It probably helps that the leadship had experience from their last winning period, as the main heads were all the same as during the Vettel era. 2009 and 2010 weren't great operationally by them, those were the team's first seasons of fighting for regular wins and championships and they fumbled plenty back then. I'm sure McLaren would be better if they were given a chance to fight for it again.",Analysis,Review manually; heuristic defaulted to Analysis.
+"Well nobody outside of Red Bull expected them to continue to develop the 2025 car through October rather than focusing on the 2026 car before the summer break like the rest of the grid. Not only did they lose out on the WDC, but they're well behind on their 2026 car. At least they have the best power unit on the grid, allegedly.",Analysis,Review manually; heuristic defaulted to Analysis.
+"I don't see a lot of people shitting on him, and I can see why - he either does a great job managing his PR or he is just a real dude who loves racing, and facts point to the latter. Of all the videos I have watched he doesnt hide the fact his senior team need to be workaholics and lives to work himself",Reaction,"Primarily emotional response, humor, or personal feeling."
+Why don't you like him? Is it because he's american? If he was english and supported the Torries I bet you wouldn't give a shit.,Analysis,"Contains explanation, evidence, or technical reasoning."
+"I don't like him because he just reminds me of ""corporate American business man"" and I have always hated corporate culture and generally find it sleazy.
+
+I will, however, always have massive respect for how he turned around a truly shitty team and made them great again. That is a huge accomplishment.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"Maybe it’s me, but when took over and was his cocky cheesy self, the team didn’t do too great.
+
+Then he locked in and put himself second to the team (you can tell cause that’s when he started to go grey) and the team started winning left right and centre.",Analysis,Review manually; heuristic defaulted to Analysis.
+"It’s borderline impossible barring exceptional luck/genius/both to turn an F1 overnight. He’s done it in an amount of time that very much puts his money where his mouth was.
+
+Exceptional team principle. Can’t fault it.
+
+All you have to do is look at Aston Martin to see that there is a certain X factor needed from the top down to turn a team around and it’s not just something you can throw money at despite that seeming like the base requirement.",Analysis,Review manually; heuristic defaulted to Analysis.
+"Yeah, they were struggling to get sponsors at the time. Zak joined in 2016 and was promoted in 2018, so he had to work his ass off to secure sponsorships and ensure his team could get better to build a faster car. Safe to say that he has done both.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"They were struggling to do anything at that time, really.
+
+That year I was, admittedly, full of schadenfreude. After the years of ""we have the best chassis, but are being let down by Honda"", they got the Renault engine and gave a spectacular demonstration of just how bad their chassis was.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"Hot take but the sponsor thing is a bit of a myth, McLaren had no problems with sponsors lining up, it's just that Ron Dennis was still living a decade in the past where you'd have one single big title sponsor paying half the team's budget and didn't want small sponsors on the car for the sake of it and underpaying what he thought the space was worth even as a backmarker. Zak himself went into the team with this mindset before easing up and just getting names on the car that Ron would have refused, not because no one was interested in sponsoring a failing backmarker.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"Here is the livery from the side. It's so bleak. You can't even count the ""Petrobras"" or ""Renault"" as those are just telling you what the oil and the engine is, not actual sponsors.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"Indeed, McLaren later moved the Dell logo forward on the sidepod, giving it a more prominent position. They framed it as a goodwill gesture, but of course it was done to make car look slightly less empty.
+
+Worth noting that in the photo I linked, there's also Chandon and Shadow logos visible. Chandon weren't a new sponsor, so I assume they were missing in OP's photo because of alcohol sponsorship restrictions.
+
+Shadow, on the other hand, was McLaren's esports thing, so that was another instance of them trying to make the car look less barren.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"I know we talk about the stickerless Brawn being one of the best looking cars of all time because it's stickerless, but this one just looks...bad.",Analysis,"Contains explanation, evidence, or technical reasoning."
+I love it personally. I don't like being assaulted by advertising when I'm watching so any reprieve feels like pure freedom.,Reaction,"Primarily emotional response, humor, or personal feeling."
+"That car looked shockingly bad, period.",Analysis,Review manually; heuristic defaulted to Analysis.
+"I remember this at the time thinking McLaren were headed the way of Williams or worse Lotus
+
+Fairplay to Zak
+
+Say what you want about him but he’s brought back McLaren to winning ways
+
+2026 might suck to begin with but it’ll be foolish to be against them leading the development race into next year",Analysis,Review manually; heuristic defaulted to Analysis.
+From the tone of orange and blue to the empty livery to the general design of the car,Analysis,Review manually; heuristic defaulted to Analysis.
+"Zak Brown’s story is cool as fuck.
+
+He won some game show on TV when he was a teenager, he used the prize money to open his own karting school and work his ass off all the way to Formula one.
+
+There’s footage of him on the game show as well.",Analysis,Review manually; heuristic defaulted to Analysis.
+"Ferrari sometimes only puts 3 wheels on, though.",Analysis,Review manually; heuristic defaulted to Analysis.
+Ferrari was challenging Mercedes for a title that year and failed. McLaren has since won two constructors' championships while Ferrari won none.,Analysis,Review manually; heuristic defaulted to Analysis.
+"I still remember the Michael Douglas-narrated documentary (on Amazon I believe) that followed McLaren during the 2017 pre-season. Everything looked so wonky (and they clearly painted Honda in a bad light). Hilariously, the documentary ends just before the 2017 season starts, then they fast forward a full year to 2018 with Zak getting the top job and explaining how they dropped Honda and switched to Renault. I read somewhere that they didn't show the actual season because they hadn't gotten F1's clearance to film races (this was all before Drive to Survive), but I couldn't help but think they had decided to cut the losses on what should have been a comeback story documentary over the 2017 season.
+
+As a fan, it felt so bad seeing McLaren struggle so badly in 2015 in their first season with Honda (especially after dropping the best engine on the grid), then get somewhat better in 2016, just to be terrible again in 2017. Those were really dark times. Kudos to Zak, Andrea and the team indeed for such a massive turnaround -- ironically with Mercedes back as their engine provider!",Analysis,"Contains explanation, evidence, or technical reasoning."
+"Eh…
+
+I feel like it just looks a bit plain. Like they could have done something a bit interesting with it because they had so much space to work with because of the lack of advertising.
+
+But it just looks empty and flat.
+
+Not that I prefer the advertising on every surface that they have now.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"
+I can come with an even hotter take and say that a contemporary F1 team with great sponsor portfolio can never have a truly good livery. The draw of this livery comes from a near total lack of sponsorship. The Papaya livery loses its luster the more successful it gets…",Hot Take,Prediction or strong opinion with limited evidence.
+"Back to back world constructors championships, breaking a run of 14 consecutive championships won by either Red Bull or Mercedes. Plus the only non Red Bull or Merc WDC in 15 years
+
+We have come VERY far",Analysis,Review manually; heuristic defaulted to Analysis.
+Have we really come that far? I feel like I could see them do that again (looking at you Montreal),Analysis,Review manually; heuristic defaulted to Analysis.
+Seeing McLaren in the doldrums really sucked- glad they're back closer to the front. F1 is more enjoyable when they're fighting for podiums/wins.,Analysis,Review manually; heuristic defaulted to Analysis.
+"Mercedes have come a long way. 2020 they put the wrong tyres on both cars, costing them a win.
+
+2021 they didn't pit lewis hamilton, costing him a championship. With lewis himself saying it was a mistake as he watched everyone else pitting.",Analysis,Review manually; heuristic defaulted to Analysis.
+I'm all for Ferrari throwing everything at this!,Reaction,"Primarily emotional response, humor, or personal feeling."
+Yeah fuck it throw the kitchen sink at it. They'll either go down swinging or genuinely become a threat to Mercedes.,Analysis,Review manually; heuristic defaulted to Analysis.
+"I would rather they throw some horse power in the engine. ¯\_(ツ)_/¯
+
+Not sure how the extra weight of the kitchen sink would help…",Analysis,"Contains explanation, evidence, or technical reasoning."
+"Depends at who you throw it
+
+The Mercedes in front of you? Yes
+
+Your driver? No",Analysis,Review manually; heuristic defaulted to Analysis.
+"
+Ferrari is currently waiting for official approval from the FIA before introducing its upgraded F1 engine, provisionally as early as the Austrian Grand Prix Combined with a new Shell fuel, developed specifically for the new engine configuration, the increase in power is expected to help reduce the horsepower deficit.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"I hope that the FIA don't turn this into a potential clusterfuck. Imagine if the FIA delay this out because of the Red Bull challenge, and then Ferrari (and other manufacturers like Audi) who had development updates prepped are left in limbo.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"Of course they will, they make a controversial decision and then they decide to reverse it because a team pressurises them and then when other teams tell them they have to stick by their original assessment that everyone agreed to, they suddenly decide that the discussion is over.
+
+For all the prestige they have, Ferrari need to match the politicking and lobbying of Mercedes if they want to win, this happened a few weeks back with Merc getting to install an upgrade that the FIA said was illegal when Ferrari had it, only for the FIA to change their mind once Mercedes brought it and gained an advantage that would have been Ferrari’s otherwise.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"That's what ferrari used to do, the politicking, in the early2000's and people were not fans of it.",Analysis,Review manually; heuristic defaulted to Analysis.
+if they accept RBs challange and messure the engines again then they will have to delay this,Analysis,"Contains explanation, evidence, or technical reasoning."
+"How does ADUO work with the PU allocations? Can you only add the upgrades to unused elements?
+
+What I'm thinking is, for those getting ADUO upgrades, will they ultimately have to take a penalty to use upgraded elements for the rest of the season, or end up having to use a mix of old spec and new spec?",Analysis,"Contains explanation, evidence, or technical reasoning."
+"Parts that are not sealed seem to mostly be sensors and electrical components; it's listed in detail in Appendix C4. This restriction applies to all upgrades (ADUO as well as reliability), and it means any upgrade will likely have to be introduced through a new component; sealed parts of old components in the pool cannot be upgraded.
+
+Furthermore, any new PU component introduced during a competition must always be of the newest specification, and whenever a new specification is introduced for the first time on any car, all teams supplied by the manufacturer are entitled to priority access to at least 1 PU of that newest specification for the Friday of that competition.",Analysis,"Contains explanation, evidence, or technical reasoning."
+I think it depends on when you break the seal to modify or change internals. In theory you could change the same think on 3 PUs and it counts as 3 “allocations”,Hot Take,Prediction or strong opinion with limited evidence.
+I want them to win wdc so bad been can't t be depressed every season,Analysis,Review manually; heuristic defaulted to Analysis.
+"
+Hurry up FIA, Mercedes withdrew their right of appeal, you should be free to focus on other shit now",Analysis,Review manually; heuristic defaulted to Analysis.
+"If the engine upgrade means Ferrari can fight for 1-2 like merc at the beginning, then the gap to kimi will open up very fast.",Analysis,"Contains explanation, evidence, or technical reasoning."
+Damn Ferrari going all in and I am all for it lets gooo!,Reaction,"Primarily emotional response, humor, or personal feeling."
+Yea. You have to take a number to join the queue. Only 4 more posts before it’s my turn!,Reaction,"Primarily emotional response, humor, or personal feeling."
+"Will be tricky for sure, until the engine is tested in an actual race, we’ll never know if this engine is better, performance-wise.",Analysis,"Contains explanation, evidence, or technical reasoning."
+Just a hunch but I think Austria could be tough for Merc. Cooling is always a massive issue and we've had two high profile Mercedes DNF (Canada and Spain) where a PU has failed after multi lap battles plus dirty air.,Hot Take,Prediction or strong opinion with limited evidence.
+"Not keeping any hopes up, if i did, its prolly gonna be a double dnf related to engine failure",Analysis,"Contains explanation, evidence, or technical reasoning."
+The engine is gonna implode. Calling it now. ;(,Analysis,"Contains explanation, evidence, or technical reasoning."
+Toto has to pay more now to fia to prevent them from having approval,Analysis,Review manually; heuristic defaulted to Analysis.
+"Whenever a manufacturer introduces a new PU spec, they must grant priority access to 1 PU of that spec to every team they supply. That means, assuming only the regulatory minimum is done, Haas and Cadillac have the guaranteed option to fit the new spec on one of their cars at the same time Ferrari introduces it. However, that regulatory guarantee is limited to one PU and to the first day of the relevant competition.
+
+We don't know what the supply contracts may say beyond that. What can also play into it is that any new element introduced on any car has to always be of the newest specification.",Hot Take,Prediction or strong opinion with limited evidence.
+"Come on FIA - I'd love to see Ferrari become a consistent threat to Mercedes.
+
+Wouldn't mind if McLaren and Red Bull could turn up to the party as well, but a 2-horse race is better than 1.",Reaction,"Primarily emotional response, humor, or personal feeling."
+"Wait, is it happening? Do I dare get my hopes up for a goated season? SOMEONE TELL ME HOW TO FEEL",Analysis,Review manually; heuristic defaulted to Analysis.
+"I think this is why Lewis was almost passing out after celebrating. He was dehydrated and wasn’t drinking water. Even in the interview, you could see he looked it.
+
+Edit: As this person below me is claiming, I’m not disagreeing with them that he was overcome with emotion. But that alone isn’t enough to make someone almost pass out when you’re that fit. It’s both an adrenal dump, dehydration, emotion and endorphin release, excitement and exertion (act of celebration). Don’t pick one aspect to make it sound like I’m bsing you lol. Chances are I have a much better grasp of physiology than you ever will.",Hot Take,Prediction or strong opinion with limited evidence.
+No he was just over come by emotions. They tell all drivers to drink water constantly mate,Analysis,Review manually; heuristic defaulted to Analysis.
+We are starting to collect water based memes in F1.,Analysis,Review manually; heuristic defaulted to Analysis.
+"n that moment, we were all Carlos Santi. I was so giddy watching as Hamilton swung round the first corner with George comfortably behind.",Analysis,Review manually; heuristic defaulted to Analysis.
+It's so nice after his previous engineer seemed like he didn't give AF. Lewis just seems way more in tune with Santi,Analysis,"Contains explanation, evidence, or technical reasoning."
+So happy how great Lewis and his new race engineer are getting along. Last season was so painful,Analysis,"Contains explanation, evidence, or technical reasoning."
+AM I CATCHING THEM? YOU ARE CATCHING REALLY WELL! KEEP PUSHING! KEEP PUSHING!,Reaction,"Primarily emotional response, humor, or personal feeling."
+"I was screaming: GIVE HIM THE LAP TIME, NOT A COMPLIMENT!!",Reaction,"Primarily emotional response, humor, or personal feeling."
+Sometimes I think the engineers are just watching the race and forget they also have a driver on track. But his current engineer is at least a whole lot more in line with Hamilton than the previous one.,Analysis,"Contains explanation, evidence, or technical reasoning."
+"I was clapping when he went over the line, it was such a wholesome moment.",Analysis,Review manually; heuristic defaulted to Analysis.
+Keeping the drivers motivated is a key part of their job. But you are right that his new engineer seems to get Lewis.,Analysis,"Contains explanation, evidence, or technical reasoning."
+"Alex Jacques should just be a poet at this point, he’s too damn good at this. Is this off the dome?",Analysis,Review manually; heuristic defaulted to Analysis.
+"He HAS to have these pre-planned, I'd love to ask him one day",Reaction,"Primarily emotional response, humor, or personal feeling."
+He has to have a scratchpad full of potential commentary verses. It’s just too perfect how he can launch into these powerful monologues for the last lap and have the length just right to fit where he’s done at the flag,Analysis,Review manually; heuristic defaulted to Analysis.
+Exactly. I imagine he keeps pre written notes on likely potential winners and at least notes for wildcards.,Analysis,Review manually; heuristic defaulted to Analysis.
+"He almost certainly has something drawn up about being an unlikely winner, often apathetic, Newey’s design, dreaming of playing tennis, etc",Analysis,Review manually; heuristic defaulted to Analysis.
+"He came to this sport with the dreams of a child, supported by a father who'd move heaven and earth for his boy. They built the dream team together, remade the factory. brought in the expertise of Adrian Newey and finally delivered this machine. Over the years driving and learning from the greatest drivers in our sport, a son who raced alongside Vettel and Alonso, he now rises to be a man who now takes the top step. Lance Stroll is the winner of the Monaco Gran Prix.",Analysis,Review manually; heuristic defaulted to Analysis.
+I guess we’ll see later this year,Analysis,Review manually; heuristic defaulted to Analysis.
+"Even if he has written the lines, it’s another matter to be able to deliver the lines with the passion he has",Analysis,Review manually; heuristic defaulted to Analysis.
+"I remember an interview with a different announcer who was asked if they make up their iconic lines in advance of the event. The answer was yes, they do, but some of their most famous lines were made on the spot.",Analysis,Review manually; heuristic defaulted to Analysis.
+"Not being snarky here, but it’s called “being a professional”. You can tell when some broadcasters take it more seriously than others. I’m sure they have a file with refrains for every driver, at every circuit. He’s got one hell of a producer too.",Analysis,Review manually; heuristic defaulted to Analysis.
+"This is the thing. They've all been doing it for years, which will just create a sort of sixth sense for energy/timing/flow.",Analysis,Review manually; heuristic defaulted to Analysis.
+My understanding of how some other commentators work is that a lot of “how could would this be” xyz scenarios prepare them for it actually happening and having a line for it,Analysis,Review manually; heuristic defaulted to Analysis.
+"There's an excellent video of Crofty giving a little behind the scenes tour of their box, walking along the gangway between all the boxes and explaining what's happening. Then he walks into the Sky box, introduces Ant and the producer, points out some things like his track map and notes on the walls, and then put his headset on and goes straight into the live intro for a practice session.",Analysis,Review manually; heuristic defaulted to Analysis.
+"Unless I misunderstood, I think David said something on the broadcast today about Alex being a perfectionist. Wouldn’t surprise me if he puts in lots of work on what he might say during potential historic wins.",Hot Take,Prediction or strong opinion with limited evidence.
+"Of course he does. If you’re a commentator, you’re going to have something ready for if and when Lewis gets his first Ferrari win. He’s probably been sitting on this line since the start of 25. ",Analysis,Review manually; heuristic defaulted to Analysis.
+That’s what I was wondering. Did he just come up with that beautiful line or was there a bank of quotes ready to go? I think he is just brilliant and raw. But even if they were pre-written…To pull them off in the heat of the moment with such emotion is not something many can do,Hot Take,Prediction or strong opinion with limited evidence.
+I would think you'd prepare something special for potential wins like Charles's Monaco and Lewis' first for Ferrari.,Analysis,Review manually; heuristic defaulted to Analysis.
+"And they're just some moments you KNOW you might need. Iike I can imagine he had ""The legend forged in silver resumes in red"" definitely written down to use",Analysis,Review manually; heuristic defaulted to Analysis.
+"Not saying you can't make it up on the spot because some people can just do that, but having it prepared seems more likely to me.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"
+I love that Mercedes' silver was reflected in the chromed silver McLaren livery Lewis won '08 in.
+
+(And 2007 remains the best rookie season in history).",Reaction,"Primarily emotional response, humor, or personal feeling."
+These guys are pros. Crofty has done a feature to showcase how much prep legwork goes into a session. There's a high chance that lines are prewritten for potential significant moments,Analysis,Review manually; heuristic defaulted to Analysis.
+I just imagine him with a little pocket notebook and writing little F1 related haiku’s all day.,Analysis,Review manually; heuristic defaulted to Analysis.
+And that's why F1TV > the rest. Alex Jacques is just great. Same with when Charles finally won Moncao.,Analysis,Review manually; heuristic defaulted to Analysis.
+"The stands he saw built as a child, now rise for him as a man.
+
+Fucking chills",Analysis,Review manually; heuristic defaulted to Analysis.
+"Crofty also has some banger lines, especially on the rare occasion that he correctly identifies the driver he's talking about.",Analysis,Review manually; heuristic defaulted to Analysis.
+"I'm wearing a shirt right now that has part of that commentary speech on it and ugh I love it so much
+
+It's also ""The grandstands he saw built as a kid growing up now rise for him"" (sorry I can just look down right now and read it haha)",Reaction,"Primarily emotional response, humor, or personal feeling."
+"And for the first time in 93 years, this fabled race has been won by one of their own! Charles Leclerc wins the Monaco Grand Prix!! I miss 2024 season so much.",Reaction,"Primarily emotional response, humor, or personal feeling."
+"AJ is a F1 treasure. I grew up with Murray, and then everyone who followed until Crofty took the helm, but AJ for me is surpassing the late great GOAT which feels blasphemous to say... He's just that good.
+
+He knows when to speak lines that read like poetry, when to give the commentary and weirdly when to be absolutely silent so you can hear the roar of the crowd too.
+
+Plus I've met him when he was F2 main comms and he's stupidly friendly and knowledgeable about the whole F1 pyramid.",Analysis,Review manually; heuristic defaulted to Analysis.
+"Watch the Monaco 24 highlights, its Alex Jacques",Analysis,Review manually; heuristic defaulted to Analysis.
+I’m imagining Alex Jacques sitting alone at a doughnut shop trying out different lines and typing them into his iPhone Notes app ,Analysis,Review manually; heuristic defaulted to Analysis.
+"Jesus, I've never heard that before. Thanks for linking it, now I'm all full of feels, dammit.",Hot Take,Prediction or strong opinion with limited evidence.
+Man that was awesome. I see now why he’s a fan favorite. I was pretty neutral on him but this video plus his recent form has made him such a compelling figure.,Analysis,Review manually; heuristic defaulted to Analysis.
+Alex Jacques wrote a book about F1 and it was a generational fumble to not have him do the audiobook narration.,Analysis,Review manually; heuristic defaulted to Analysis.
+Absolutely unmatched. Commentary of Charles’s win in Monaco would even bring tears into a Charles hater’s eye. Powerful and emotional,Reaction,"Primarily emotional response, humor, or personal feeling."
+What?? That publisher should be fired.,Analysis,Review manually; heuristic defaulted to Analysis.
+Whereas Sky went for a pun about his mum being a hairdresser.,Analysis,Review manually; heuristic defaulted to Analysis.
+"We'll never know, because there aren't any.",Analysis,"Contains explanation, evidence, or technical reasoning."
+This comment made me actually laugh out loud.,Reaction,"Primarily emotional response, humor, or personal feeling."
+His eulogy for Hubert back when he was doing F2 commentary is another great one.,Analysis,Review manually; heuristic defaulted to Analysis.
+"not only is Alex Jacques goated for commentary like that and play by play, but F1 also have insanely great colour commentators. Jolyon Palmer and David Coulthard are fucking awesome.",Analysis,Review manually; heuristic defaulted to Analysis.
+"“Lando Norris tried to play Max Verstappen at his own game, the problem is that he doesn't know the rules of that game.”
+
+DC is a killer in his own right",Analysis,Review manually; heuristic defaulted to Analysis.
+Thankfully we also get this commentary for free in the UK on channel 4. Love Jolyon too he's excellent,Reaction,"Primarily emotional response, humor, or personal feeling."
+Alex Jacques is a poet with a microphone. F1TV has been the best way to watch F1 since he started commentating for them.,Analysis,Review manually; heuristic defaulted to Analysis.
+Yes. it's good. The bottom line for me was Ferrari were faster then Mercedes in the race. Didnt see that coming. I thought luck or mistakes would have to happen for Lewis to win. But he was genuinely faster.,Analysis,"Contains explanation, evidence, or technical reasoning."
+"Kimi and Toto seems to think that they had enough car performance to win this one.
+
+Russell was just slow. Kimi was significantly faster.",Analysis,"Contains explanation, evidence, or technical reasoning."
+"Until the lap after Kimi overtake George, I thought he was managing his tires the whole race to make the 2 stop work (and he might as well done that in most of the race) but yeah he also had less pace compare to Kimi. However he was properly fast on the Medium so maybe he could have make a 3 stop work as well. Seems to have less confidence on the hards.
+
+What strike me was also how different Kimi and George's lines were. I'm not sure they took a single corner the same way, that's pretty rare for the same car.",Analysis,"Contains explanation, evidence, or technical reasoning."
+Genuinely that quote made me imagine like a silver sword wrapped in a red leather hilt.,Analysis,Review manually; heuristic defaulted to Analysis.
+Remember who you are on the other side,Analysis,Review manually; heuristic defaulted to Analysis.
+"If Lewis wins his 8th  I think imma model a ""Lewis Hamilton"" sword inspired by that quote",Hot Take,Prediction or strong opinion with limited evidence.
+I’ll buy it from you!! Heck take my money already whether he gets the title or not,Reaction,"Primarily emotional response, humor, or personal feeling."
+"It’s not clear to me how people forget those days. The dude was a beast at McLaren, 21 wins, 26 poles. Anyone who watched then knew he was par excellence over a lap, even with the second or third best car, averaging 3 wins and 4 poles a season. He had a solid chance at the 2012 WDC if not for terrible reliability, and was 1 DNF from a title in his rookie season.",Analysis,Review manually; heuristic defaulted to Analysis.
